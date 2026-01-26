@@ -36,7 +36,7 @@ Each project is intentionally scoped, documented, and completed.
 
 This repository collects the jupyter notebooks referred to the implementation of the models treated in the final master's work "Analyzing the influence of physical and genetic traits in cross training performance with machine learning".
 
-➡️ https://github.com/AnaGonzalezGuerra/machine-learning-and-cross-training-performance.git 
+➡️[Machine learning and cross training performance](https://github.com/AnaGonzalezGuerra/machine-learning-and-cross-training-performance.git )
 
 
 ---

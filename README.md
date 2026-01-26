@@ -19,14 +19,25 @@ My work gravitates toward **clear business logic, data consistency, and predicta
 
 ## 🚀 Projects
 
+### Backend projects
+
 This section contains personal projects I’m building to deepen my backend expertise.  
 Each project is intentionally scoped, documented, and completed.
 
-### 📚 Book Inventory API *(in progress)*
+#### 📚 Book Inventory API *(in progress)*
 
 
 **Tech:** Python, FastAPI, SQL  
 ➡️ Repository coming soon
+
+### Data Science projects
+
+#### M.Sc. in Data Science project
+
+This repository collects the jupyter notebooks referred to the implementation of the models treated in the final master's work "Analyzing the influence of physical and genetic traits in cross training performance with machine learning".
+
+➡️ https://github.com/AnaGonzalezGuerra/machine-learning-and-cross-training-performance.git 
+
 
 ---
 

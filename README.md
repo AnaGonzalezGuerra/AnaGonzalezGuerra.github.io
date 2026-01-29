@@ -28,7 +28,7 @@ Each project is intentionally scoped, documented, and completed.
 
 
 **Tech:** Python, FastAPI, SQL  
-➡️ Repository coming soon
+➡️ [Book Inventory Backend](https://github.com/AnaGonzalezGuerra/BOOK-INVENTORY-BACKEND.git)
 
 ### Data Science projects
 

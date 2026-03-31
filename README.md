@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ana González
 
-I'm a Backend Developer with a background in Biotechnology and Data Science, currently focused on designing and building small, well-defined backend systems using Python.
+I'm a Software Developer with a background in Biotechnology and Data Science, currently focused on designing and building small, well-defined backend systems using Python and C#.
 
 My work gravitates toward **clear business logic, data consistency, and predictable systems**. I enjoy improving existing processes or building new ones at a manageable scale — projects with a clear scope, solid foundations, and a defined end.
 
@@ -8,9 +8,8 @@ My work gravitates toward **clear business logic, data consistency, and predicta
 
 ## 🧭 What I Focus On
 
-- Backend development with Python
+- Backend development with Python and C#
 - Designing APIs with clear domain logic
-- Working with relational databases and SQL
 - Building systems that prioritize correctness, maintainability, and clarity
 
 
